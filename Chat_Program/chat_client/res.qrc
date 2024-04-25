@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>btn_off.png</file>
+        <file>btn_on.png</file>
+        <file>close_hover.png</file>
+        <file>close_normal.png</file>
+        <file>login.jpg</file>
+        <file>max_hover.png</file>
+        <file>max_normal.png</file>
+        <file>min_hover.png</file>
+        <file>min_normal.png</file>
+        <file>normal_hover.png</file>
+        <file>normal_normal.png</file>
+    </qresource>
+</RCC>
